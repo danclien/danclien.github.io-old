@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://danclien.github.io/sitemap.xml 
+Sitemap: http://danclien.com/sitemap.xml 
