@@ -4,7 +4,7 @@
   <title><![CDATA[Dan Lien]]></title>
   <link href="http://danclien.com/atom.xml" rel="self"/>
   <link href="http://danclien.com/"/>
-  <updated>2013-07-11T16:53:44-05:00</updated>
+  <updated>2013-07-11T16:58:17-05:00</updated>
   <id>http://danclien.com/</id>
   <author>
     <name><![CDATA[Dan Lien]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Insert first blog post here]]></title>
+    <link href="http://danclien.com/blog/2013/07/11/insert-first-blog-post-here/"/>
+    <updated>2013-07-11T16:55:00-05:00</updated>
+    <id>http://danclien.com/blog/2013/07/11/insert-first-blog-post-here</id>
+    <content type="html"><![CDATA[<p>Insert text here.</p>
+]]></content>
+  </entry>
   
 </feed>
